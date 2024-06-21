@@ -53,4 +53,4 @@ async def zadaniedomowe(ctx):
         anglik2 = random.choice(anglik)
         await ctx.send(anglik2)
 
-bot.run("twój kod")
+bot.run("twój token")
